@@ -1,4 +1,4 @@
-# FTC-Powerplay-Algorithms
+# FTC Powerplay Algorithms
 Series of programs and algorithms that I developed during the 2022-23 FTC Powerplay season.
 
 Competition (Final Autonomous) Code: testsLeft, testsRight <br />
